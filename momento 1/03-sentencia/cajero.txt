@@ -1,0 +1,16 @@
+Trabajo javascript
+
+'use strict';
+
+//Ingresar a un cajero
+let pin;
+let clave = 1234
+pin = prompt("Ingresa tu contraseña")
+
+if pin = clave
+ alert("Bienvenido al banco")
+else pin != clave
+    alert("tarjeta declinada, intente nuevamente");
+    pin = prompt("Ingrese nuevamente")
+
+alert("Gracias por preferirnos");
